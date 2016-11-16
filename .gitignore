@@ -3,6 +3,7 @@ bin/*
 data/*
 *.sublime-project
 *.sublime-workspace
+!.gitkeep
 
 # Compiled Object files
 *.slo
